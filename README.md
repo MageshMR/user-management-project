@@ -26,3 +26,4 @@ A robust User Management System that allows administrators to manage user accoun
 
 3.open the project in web browser
     index.php open with web browser(Google,Microsoft edge,Firefox)
+
