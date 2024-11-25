@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+}
+input{
+    height: 25px;
+    width: 190px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
+label{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+button{
+    height: 30px;
+    width: 150px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+button:hover {
+    background: #555;
+}
+
+table {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
